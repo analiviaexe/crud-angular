@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Mouse Gamer DPI3600",
+            "price": 269.80
+        },
+        {
+            "id": 2,
+            "name": "Headset Gatinho",
+            "price": 535.00
+        },
+        {
+            "id": 3,
+            "name": "Placa Mae HD456",
+            "price": 829.90
+        }
+    ]
+}

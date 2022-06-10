@@ -1,19 +1,29 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Mouse Gamer DPI3600",
-            "price": 269.80
-        },
-        {
-            "id": 2,
-            "name": "Headset Gatinho",
-            "price": 535.00
-        },
-        {
-            "id": 3,
-            "name": "Placa Mae HD456",
-            "price": 829.90
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Mouse Gamer DPI3600",
+      "price": "229.80"
+    },
+    {
+      "id": 3,
+      "name": "Placa Mae HD456",
+      "price": 829.9
+    },
+    {
+      "name": "RTX 3080",
+      "price": "12399",
+      "id": 4
+    },
+    {
+      "name": "Headset",
+      "price": "329",
+      "id": 5
+    },
+    {
+      "name": "Gabinet",
+      "price": "489",
+      "id": 6
+    }
+  ]
 }
